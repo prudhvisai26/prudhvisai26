@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs,Spring boot,Nodejs**
 
-- 💬 Ask me about **Spring Boot,Java,Python,Html,css,javascript**
+- 💬 Ask me about **Spring Boot,Java,Python,Html,Css,Javascript,Machine Learning,NLP**
 
 - 📫 How to reach me **dasariprudhvisai26@gmail.com**
 
