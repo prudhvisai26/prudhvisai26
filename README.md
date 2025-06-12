@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Sai Raj</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Engineer exploring AI, Machine Learning, and Intelligent Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvisai26&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvisai26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prudhvisai26" alt="prudhvisai26" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs,Spring boot,Nodejs**
-
-- 💬 Ask me about **Spring Boot,Java,Python,Html,Css,Javascript,Machine Learning,NLP**
-
-- 📫 How to reach me **dasariprudhvisai26@gmail.com**
+- 🤖 Currently exploring **Generative AI**, **Intent Classification**, and **AI-powered Web Applications**
+- 🛠️ Experienced in building **MERN/Spring Boot** stacks and **RESTful APIs**
+- 📊 Strong understanding of **Machine Learning**, **NLP**, and **Prompt Engineering**
+- 💬 Ask me about **Full Stack Development (React, Django, Node.js, Spring Boot), REST APIs, Machine Learning, and AI-powered Web Applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
