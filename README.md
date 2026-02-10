@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prudhvi Sai Raj Dasari</h1>
+<h1 align="center">Hi 👋, I'm Prudhv
+i Sai Raj Dasari</h1>
 <h3 align="center">A passionate Software Engineer exploring AI, Machine Learning, and Intelligent Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvisai26&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvisai26" /> </p>
@@ -9,7 +10,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/prudhvisai26/Portfolio)
 
-- 🌱 I’m currently learning **DSA,Typescript, LLMs, Three.js, Machine Learning**
+- 🌱 I’m currently learning **DSA,Typescript, LLMs, Machine Learning**
 
 - 👯 I’m looking to collaborate on [AI-Srum Master](https://github.com/prudhvisai26/AI-Scrum-Master)
 
