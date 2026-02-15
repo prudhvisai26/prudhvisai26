@@ -10,7 +10,7 @@ i Sai Raj Dasari</h1>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/prudhvisai26/Portfolio)
 
-- 🌱 I’m currently learning **DSA,Typescript, LLMs, Machine Learning**
+- 🌱 I’m currently learning **Typescript, LLMs, Machine Learning**
 
 - 👯 I’m looking to collaborate on [AI-Srum Master](https://github.com/prudhvisai26/AI-Scrum-Master)
 
